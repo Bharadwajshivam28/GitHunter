@@ -18,10 +18,9 @@ https://git-hunter.netlify.app/)
 ## project preview 
 
 
-![Google GitHub profile](https://user-images.githubusercontent.com/119673958/227143043-cf9da988-1361-43ec-8f4b-f61f66d9d633.jpg)
 
-
-![Microsoft GitHub profile](https://user-images.githubusercontent.com/119673958/227143074-81000d4b-95d9-4420-8dfd-7ec035c8f48a.jpg)
+![Google GitHub profile](https://user-images.githubusercontent.com/119673958/227149786-e0e339e1-8faa-4d35-a68f-bc67f8c5a92a.jpg)
+![Microsoft GitHub profile](https://user-images.githubusercontent.com/119673958/227149834-845f6b9d-8c3f-4e10-9867-9f00f5bbfd71.jpg)
 
 
 
