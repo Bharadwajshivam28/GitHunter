@@ -5,10 +5,10 @@ Git Hunter is easy to use beginner friendly website to search for any user in th
 # Features of the project
 With the help of this project you can easily check the required user profile by entering his username accurately.
 
-** USERNAME 👤 ** 
-** Followers  & Total repositories count **
-** Bio & Profile picture **
-** Recently used 5 repositories **
+#### USERNAME 👤 ,
+#### Followers & Total repositories count🌟
+#### Bio & Profile picture 🧑
+#### Recently used 5 repositories
 
 # Want to see the Live version
 you can check out the live version of the project by simply clicking [here](
